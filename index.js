@@ -1,7 +1,3 @@
-require('babel-register')
-const babel = require('@babel/core')
-const babelPresetLatestNode = require('babel-preset-latest-node')
-
 require('babel-register');
 const babel = require('@babel/core');
 const babelPresetLatestNode = require('babel-preset-latest-node');
